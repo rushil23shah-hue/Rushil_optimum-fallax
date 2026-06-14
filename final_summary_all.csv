@@ -1,0 +1,6 @@
+agent,avg_true_reward_last_50,avg_proxy_reward_last_50,main_metric,avg_metric_value
+Baseline,453.42,453.42,Normal reward,-
+Speed Reward,106.5,332.8,Avg velocity,1.0179
+Risky Angle Reward,21.38,48.73,Avg angle,0.0897
+Center-Smoothness Reward,494.74,7093.84,Avg position / velocity,0.5373 / 0.3063
+Pole-Upright-Only Reward,306.88,2773.6,Avg angle / position,0.0586 / 0.7183
