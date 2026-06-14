@@ -48,12 +48,11 @@ Based on these values, the detector classifies the behaviour as:
 * `train_speed.py` - Speed reward experiment
 * `train_angle.py` - Risky angle reward experiment
 * `train_upright.py` - Pole-upright-only reward experiment
-* `train_center.py` - Center-smoothness reward experiment
 * `detector.py` - Reward hacking detector
 * `plot_*.py` - Graph generation scripts
 * `logs/` - Training logs and detector results
 * `plots/` - Reward graphs and comparison plots
-* `models/` - Saved trained models
+  
 
 # Main Observation
 
